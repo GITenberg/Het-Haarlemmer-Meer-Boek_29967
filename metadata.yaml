@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34275
     wikipedia: http://nl.wikipedia.org/wiki/Jan_Leeghwater
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29967#Het-Haarlemmer-Meer-Boek
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2009-09-12'
 gutenberg_type: Text
